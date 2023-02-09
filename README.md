@@ -1,3 +1,3 @@
 # sorpresa_sorpresa
 
-*Mirepositorio: https://github.com/OscarLGP30/sorpresa_sorpresa.git
+*Mi repositorio: https://github.com/OscarLGP30/sorpresa_sorpresa.git*
