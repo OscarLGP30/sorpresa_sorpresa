@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttons/buttons.iml" filepath="$PROJECT_DIR$/buttons/buttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkboxes/checkboxes.iml" filepath="$PROJECT_DIR$/checkboxes/checkboxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factories/factories.iml" filepath="$PROJECT_DIR$/factories/factories.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sorpresa_sorpresa.iml" filepath="$PROJECT_DIR$/.idea/sorpresa_sorpresa.iml" />
     </modules>
   </component>
